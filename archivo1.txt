@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Esta es la linea 1 del archivo1.
 Esta es la linea 2 del archivo1.
 Esta es la linea 3 del archivo1.
 Esta es la linea 4 del archivo1.
 Esta es la linea 5 del archivo1.
+=======
+Esta es la linea 1 del archivo1.
+>>>>>>> parent of 45f45ba (Segundo commit)
